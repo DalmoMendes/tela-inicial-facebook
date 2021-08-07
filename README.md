@@ -4,19 +4,17 @@ Tela inicial do facebook com HTML e CSS- modelo para utilização em projetos we
 <p>Simular o desenvolvimento da tela inicial de um projeto web usando HTML e CSS. Assim, é possível aplicar esse modelo em outros projetos.</p>
 <h2>Tela Desktop</h2>
 <image src="https://github.com/DalmoMendes/tela-inicial-facebook/blob/master/image/front-end-desktop.jpg">
-<h2 style="align:center">Tela Responsive</h2>
+<h2>Tela Responsive</h2>
 <image src="https://github.com/DalmoMendes/tela-inicial-facebook/blob/master/image/front-end-responsive.jpg">
-<h2>Desenvolviemnto passo a passo - Youtube</h2>
+<h2>Desenvolvimento passo a passo - Youtube</h2>
 <ul>
-<li><a href="">Aula 01</li>
-<li><a href="">Aula 02</li>
-<li><a href="">Aula 03</li>
-<li><a href="">Aula 04</li>
-<li><a href="">Aula 05</li>
-<li><a href="">Aula 06</li>
-<li><a href="">Aula 07</li>
-<li><a href="">Aula 08</li>
-<li><a href="">Aula 09</li>
-<li><a href="">Aula 10</li>
-<li><a href="">Aula 11</li>
+<li><a href="https://www.youtube.com/watch?v=ZqFEWNuH-pE&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK">Aula 01</li>
+<li><a href="https://www.youtube.com/watch?v=WUbLhcbG3aE&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=2">Aula 02</li>
+<li><a href="https://www.youtube.com/watch?v=59mW21RT2Qk&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=3">Aula 03</li>
+<li><a href="https://www.youtube.com/watch?v=moCfWFLlJDg&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=4">Aula 04</li>
+<li><a href="https://www.youtube.com/watch?v=LuAMy-cJcQQ&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=5">Aula 05</li>
+<li><a href="https://www.youtube.com/watch?v=n7t2Zff5xHA&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=6">Aula 06</li>
+<li><a href="https://www.youtube.com/watch?v=v1DoxpE2w6U&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=7">Aula 07</li>
+<li><a href="https://www.youtube.com/watch?v=fjgfyPkZ4Mo&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=8">Aula 08</li>
+<li><a href="https://www.youtube.com/watch?v=8KMIgJ4CkSw&list=PL6QtTMQmvjphOz7bIju_Ms2YpU7C7RrrK&index=9">Aula 09</li>
 </ul>
